@@ -1,0 +1,27 @@
+body{
+    background-image: url(https://media.tenor.com/4kc5AXWNVvQAAAAM/barney-rubble-chopping-wood.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    justify-content: space-around;
+}
+header{
+    background-color: rgba(7, 6, 6, 0.685);
+    color: white;
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    justify-content: space-around;
+    width: 100%;
+}
+
+#score{
+    display: flex;
+    flex-direction: row;
+}
+
+#gifImage{
+    width: 60%;
+}
